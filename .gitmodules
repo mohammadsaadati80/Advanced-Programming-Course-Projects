@@ -13,3 +13,6 @@
 [submodule "A4"]
 	path = A4
 	url = https://github.com/mohammadsaadati80/Goodreads.git
+[submodule "A1C"]
+	path = A1C
+	url = https://github.com/mohammadsaadati80/Advanced-Programming-Clean-Code.git
