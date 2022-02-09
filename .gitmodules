@@ -31,3 +31,6 @@
 [submodule "A7P3"]
 	path = A7P3
 	url = https://github.com/mohammadsaadati80/UTRIP-Web.git
+[submodule "Final-Exam"]
+	path = Final-Exam
+	url = https://github.com/mohammadsaadati80/Zebarsad.git
