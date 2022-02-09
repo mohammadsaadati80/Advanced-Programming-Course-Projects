@@ -28,3 +28,6 @@
 [submodule "A7P2"]
 	path = A7P2
 	url = https://github.com/mohammadsaadati80/UTRIP-Smart.git
+[submodule "A7P3"]
+	path = A7P3
+	url = https://github.com/mohammadsaadati80/UTRIP-Web.git
