@@ -7,3 +7,6 @@
 [submodule "A2"]
 	path = A2
 	url = https://github.com/mohammadsaadati80/Advanced-Programming-Recursion.git
+[submodule "A3"]
+	path = A3
+	url = https://github.com/mohammadsaadati80/Unit-Selection-Suggestion.git
