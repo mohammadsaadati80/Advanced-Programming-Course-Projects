@@ -10,3 +10,6 @@
 [submodule "A3"]
 	path = A3
 	url = https://github.com/mohammadsaadati80/Unit-Selection-Suggestion.git
+[submodule "A4"]
+	path = A4
+	url = https://github.com/mohammadsaadati80/Goodreads.git
