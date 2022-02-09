@@ -22,3 +22,6 @@
 [submodule "A6"]
 	path = A6
 	url = https://github.com/mohammadsaadati80/Advanced-Programming-A6.git
+[submodule "A7P1"]
+	path = A7P1
+	url = https://github.com/mohammadsaadati80/UTRIP.git
