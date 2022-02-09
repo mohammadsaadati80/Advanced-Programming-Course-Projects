@@ -1,3 +1,6 @@
 [submodule "A0"]
 	path = A0
 	url = https://github.com/mohammadsaadati80/Advanced-Programming-A0.git
+[submodule "A1"]
+	path = A1
+	url = https://github.com/mohammadsaadati80/Advanced-Programming-A1.git
