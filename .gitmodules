@@ -19,3 +19,6 @@
 [submodule "A5"]
 	path = A5
 	url = https://github.com/mohammadsaadati80/Fieldrunners.git
+[submodule "A6"]
+	path = A6
+	url = https://github.com/mohammadsaadati80/Advanced-Programming-A6.git
